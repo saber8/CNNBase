@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CNNBase_Example' do
+  pod 'CNNBase', :path => '../'
+
+  target 'CNNBase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
