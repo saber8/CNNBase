@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import CNNBase
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
